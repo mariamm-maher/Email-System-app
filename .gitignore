@@ -1,0 +1,10 @@
+# Node.js
+server/node_modules/
+server/.env
+
+# React
+client/node_modules/
+client/build/
+
+# System files
+.DS_Store
